@@ -1,0 +1,1 @@
+Basicamente, esses dois estudiosos definem que, os princípios para um bom planejamento de TI envolvem, identificar se os usuários estão prontos para tão evolução (uso da tecnologia), fazer o levantamento dos sistemas e tecnologias já utilizadas dentro da organização. Levantar uma análise das tecnologias em ascensão atualmente, e implementar projetos pilotos na organização.

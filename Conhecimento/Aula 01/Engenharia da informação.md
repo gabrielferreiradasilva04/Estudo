@@ -1,0 +1,1 @@
+Deve apoiar a informação, ajudar no controle administrativo e suportar a tomada de decisão e a estratégia competitiva.

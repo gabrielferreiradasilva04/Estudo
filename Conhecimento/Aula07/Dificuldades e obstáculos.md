@@ -1,0 +1,1 @@
+Muitos resistem ao processo de planejamento de TI pois é um processo trabalhoso, exige tempo, dedicação e pessoas capacitadas para tal. Além disso, também é um processo arriscado, que pode assumir compromissos públicos na organização com entregas e resultados.

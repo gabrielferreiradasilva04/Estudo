@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "1ca00ee43860391c",
+    "type": "split",
+    "children": [
+      {
+        "id": "670453f568ce7624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83818be83b4d71e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aula07/Planejamento estratégico de TI - PESI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planejamento estratégico de TI - PESI"
+            }
+          },
+          {
+            "id": "1b1c60f22e56198e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aula 06/Cultura organizacional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cultura organizacional"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0e40c4cbe1909402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d26ba0b591fb350b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be1b52af8a2c8385",
+    "type": "split",
+    "children": [
+      {
+        "id": "d412e2a5abd90583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bccf59b3b1db3aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae2cd352053e0a4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f078c244c8655772",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8de35cd440ced27a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fddfb0e45802994a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe323d45a2658cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modelos e Ferramentas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Modelos e Ferramentas"
+            }
+          },
+          {
+            "id": "51495ce8fa1a243b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modelos e Ferramentas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Modelos e Ferramentas"
+            }
+          },
+          {
+            "id": "d8bd20b69acfa4c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0cdfb3f9adadf599",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modelos e Ferramentas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Modelos e Ferramentas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b1c60f22e56198e",
+  "lastOpenFiles": [
+    "Aula07/Dificuldades e obstáculos.md",
+    "Aula 06/Tipos de conhecimento (NONAKA E HIROTAKA).md",
+    "Aula07/Fatores Críticos de Sucesso.md",
+    "Aula07/Planejamento estratégico de TI - PESI.md",
+    "Aula07/Aula 07 - Administração de informática.md",
+    "Aula07/Influência do Ambiente de TI no PESI.md",
+    "Aula07/Resultados do planejamento.md",
+    "Aula07/Modelo de maturidade CMM.md",
+    "Aula07/Modelos de ciclo de vida de sistemas.md",
+    "Aula07/Administração da informática.md",
+    "Aula07/Fases da evolução da Tecnologia na empresa.md",
+    "Aula07/Princípios de um bom planejamento de tecnologia - McFarlan e McKenney.md",
+    "Aula07/Modelo de 4 Estágios.md",
+    "planejamento estratégico.md",
+    "Aula07",
+    "Aula 01/Conceitos de informática e tecnologia da informação.md",
+    "Aula 01/Teoria dos Estágios de crescimento (Nolan, 1979).md",
+    "Aula 06/Mudança organizacional.md",
+    "Aula 06/Era da Indústria X Era da informação.md",
+    "Aula 06/Cultura organizacional.md",
+    "Aula 06/Aula 06 - Gestão do conhecimento.md",
+    "Aula 06/Ciclo de vida da empresa vs estilo de liderança.md",
+    "Aula 06/Clima vs Cultura organizacional.md",
+    "Aula 06/Cultura data driven.md",
+    "Aula 06/Trabalhador do conhecimento.md",
+    "Aula 06/Gestão do Conhecimento.md",
+    "Aula 06/Tipos de conhecimento.md",
+    "Aula 06",
+    "Aula 01",
+    "Gestão de Tecnologia da Informação"
+  ]
+}
