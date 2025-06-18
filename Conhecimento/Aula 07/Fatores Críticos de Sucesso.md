@@ -9,10 +9,12 @@ Acima de tudo, a TI deve fazer estimativas realistas, com base em dados, histór
 	- Envolvimento e comprometimento direto da diretoria;
 - Alinhamento estratégico: 
 	- TI e negócio não devem andar separados;
+	- Processos de retroalimentação;
 	- Válido o uso de frameworks como o SAM (Strategic Alignment Model) nesses casos;
 - Priorização com critérios
 	- O que deve ser entregue primeiro;
 	- Considerar riscos, retorno e valor estratégico agregado;
+	- Dentro do processo de priorização podemos utilizar a Business Case que foi proposta por Remenyi em (1999), se trata de uma abordagem para identificar a viabilidade de projetos de TI. Basicamente, identificamos a oportunidade e os envolvidos a ela, mapeamos o resultado para o negócio, o resultado para os envolvidos, consultamos o alinhamento estratégico, consideramos os aspectos tecnológicos, a administração de riscos e  partimos para a decisão gerencial.
 - Estimativas realistas
 	- Estimativas com base em dados, histórico e experiência;
 	- Evita surpresas e atrasos;
