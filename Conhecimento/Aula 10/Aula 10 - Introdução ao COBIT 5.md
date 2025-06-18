@@ -27,6 +27,7 @@ Objetivo da aula: compreender o que é o COBIT 5, como ele funciona, quais os se
 - Ciclo de implementação
 - [[Integração com demais Frameworks]];
 - [[Conceitos Fundamentais]].
+- [[Domínios e processos do COBIT 5]]
  
 **Como o COBIT apoia a Governança**
 	O COBIT busca ligar o operacional ao estratégico, fornecendo base para que todos os processos de TI sejam controlados, medidos e melhorados continuamente.
