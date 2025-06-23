@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 10/Domínios e processos do COBIT 5.md",
+                "file": "Aula 10/APO - Planejamento e organização da TI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domínios e processos do COBIT 5"
+              "title": "APO - Planejamento e organização da TI"
             }
           },
           {
@@ -355,13 +355,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bccf59b3b1db3aa",
+  "active": "66e64af0b9c0cdcc",
   "lastOpenFiles": [
     "Aula 10/EDM - Avaliar, Direcionar e Monitorar.md",
+    "Aula 10/APO - Planejamento e organização da TI.md",
     "Aula 10/Domínios e processos do COBIT 5.md",
-    "Aula 10/Aula 10 - Introdução ao COBIT 5.md",
-    "Aula 10/Habilitadores.md",
     "Aula 10/Integração com demais Frameworks.md",
+    "Aula 10/Habilitadores.md",
+    "Aula 10/Aula 10 - Introdução ao COBIT 5.md",
     "Aula 10/Conceitos Fundamentais.md",
     "Aula 10/Processos.md",
     "Aula 10/Princípios.md",
@@ -384,7 +385,6 @@
     "Aula 07/Modelo de 4 Estágios.md",
     "planejamento estratégico.md",
     "Aula 07",
-    "Aula 01/Conceitos de informática e tecnologia da informação.md",
     "Aula 06",
     "Aula 01",
     "Gestão de Tecnologia da Informação"
